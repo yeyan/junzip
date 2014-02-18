@@ -1,0 +1,6 @@
+*.sh
+*.swp
+project/project/*
+project/target/*
+*url
+target/*
